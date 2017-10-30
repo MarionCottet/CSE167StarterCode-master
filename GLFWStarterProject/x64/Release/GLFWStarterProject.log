@@ -1,0 +1,13 @@
+﻿  Cube.cpp
+  main.cpp
+  OBJObject.cpp
+  Window.cpp
+..\Window.cpp(93): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+..\Window.cpp(127): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+..\Window.cpp(161): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+..\Window.cpp(276): warning C4809: l'instruction switch a une étiquette 'default' redondante ; toutes les étiquettes 'case' possibles sont fournies
+  Génération de code en cours
+  All 207 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  GLFWStarterProject.vcxproj -> D:\Documents\ECE\ING 5 UCSD\CSE 167\Homework 1\CSE167StarterCode-master\x64\Release\GLFWStarterProject.exe
+  GLFWStarterProject.vcxproj -> D:\Documents\ECE\ING 5 UCSD\CSE 167\Homework 1\CSE167StarterCode-master\x64\Release\GLFWStarterProject.pdb (Full PDB)
